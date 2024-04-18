@@ -2,7 +2,7 @@
   <img src="https://gitlab.com/guaraujoc/guaraujoc/-/raw/main/imgs/arch.png"/>
 </a></p>
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif">My name is Gustavo Araujo
+Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif">My name is Gustavo Araujo
 ======================================================================================================================================
 
 
